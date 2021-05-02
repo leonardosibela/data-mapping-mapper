@@ -1,4 +1,4 @@
-package com.sibela.datamappingbuilder
+package com.sibela.datamappingmapper
 
 import com.google.gson.annotations.Expose
 import com.google.gson.annotations.SerializedName

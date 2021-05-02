@@ -1,4 +1,4 @@
-package com.sibela.datamappingbuilder
+package com.sibela.datamappingmapper
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

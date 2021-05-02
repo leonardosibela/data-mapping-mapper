@@ -9,7 +9,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.sibela.datamappingbuilder"
+        applicationId "com.sibela.datamappingmapper"
         minSdkVersion 22
         targetSdkVersion 30
         versionCode 1

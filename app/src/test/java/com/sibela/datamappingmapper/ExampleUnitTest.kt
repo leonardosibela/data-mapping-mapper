@@ -1,4 +1,4 @@
-package com.sibela.datamappingbuilder
+package com.sibela.datamappingmapper
 
 import org.junit.Test
 
